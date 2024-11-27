@@ -1,4 +1,8 @@
 # Geophysical Properties of Earth
+
+
+*Data Sourced from: https://ssd.jpl.nasa.gov/horizons/app.html#/
+
 ` Revised: April 12, 2021                 Earth                              399`
 
 #### Radius
