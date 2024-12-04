@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +163,25 @@
   },
   "active": "3709b38bd1ab99c5",
   "lastOpenFiles": [
-    "03 - Earth/02 - Lithosphere.md",
+    "03 - Earth/05 - Cryosphere.md",
+    "03 - Earth/03  - Atmosphere.md",
+    "03 - Earth/07 - Magnetosphere.md",
+    "03 - Earth/08 - Exosphere.md",
     "03 - Earth/01 - Orbit.md",
+    "03 - Earth/Overview.md",
+    "README.md",
+    "03 - Earth/Scripts/Temp.txt",
+    "03 - Earth/Scripts/output.txt",
+    "03 - Earth/Temp.txt",
+    "03 - Earth/Scripts/EarthUtils.py",
+    "03 - Earth/Scripts",
+    "Scripts/EarthUtils.py",
+    "03 - Earth/04 - Hydrosphere.md",
     "03 - Earth/00 - Properties.md",
-    "03 - Earth/03  - Atmosphere.md"
+    "03 - Earth/02 - Lithosphere.md",
+    "table.txt",
+    "output.txt",
+    "Scripts/output.txt",
+    "Scripts/txt2table.py"
   ]
 }

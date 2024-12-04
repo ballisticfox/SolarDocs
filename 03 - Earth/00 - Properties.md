@@ -1,3 +1,4 @@
+
 # Geophysical Properties of Earth
 
 
@@ -76,3 +77,6 @@ Vis. mag. V(1,0)= -3.86
 Solar Constant (W/m^2)   = 1367.6 (mean), 1414 (perihelion), 1322 (aphelion)
 ```
 
+https://en.wikipedia.org/wiki/World_Geodetic_System#WGS_84
+
+https://en.wikipedia.org/wiki/Earth_Gravitational_Model
