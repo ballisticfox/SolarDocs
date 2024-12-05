@@ -67,10 +67,10 @@ $\zeta_0$ - Reference geopotential height
 $g_0$ - Reference gravitational constant
 $k$ - Boltzmann constant
 $M(\zeta)$ - Effective mass profile (defined below)
-$C,\zeta_C,H_c$ - Chemical loss term paramters
+$C,\zeta_C,H_c$ - Chemical loss term parameters
 $R,\zeta_R,H_R$ Chemical/dynamical correction parameters
 $\gamma(\zeta)=\frac{1}{2}\{1+\tanh(\frac{\zeta-\zeta_\gamma}{H_\gamma})\}$
-$\zeta_\gamma$ - 70km
+$\zeta_\gamma$ = 70km
 $H_\gamma$ = 40km
 
 The first term $n_0$ on the right-hand side of Eq 2 scales the entire profile and (in the absence of chemical and dynamical corrections) is equal to the species density at the fiducial height of $\zeta_0$. The second term is the hydrostatic integral, which includes an effective mass profile is described below. The third term represents the ideal gas law; this term and the hydrostatic integral couple the temperature profile to the density profile. The fourth term is a Chapman-like bottom-side chemical loss function; the model applies this term to O, H, and N, which experience photochemical production and loss similar to that of the ionosphere. The last term  
